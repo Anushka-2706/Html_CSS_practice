@@ -1,0 +1,44 @@
+.t1{
+    padding: 8px 50px;
+}
+.t2{
+    padding: 8px 50px;
+}
+h2 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-family: Lucida Sans Regular;
+}
+.container{
+    height: 350px;
+    width: 320px;
+    border: 0;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.btn1{
+    margin-top: 10px;
+    padding: 10px 110px;
+    background-color: #1877F2;
+    color: white;
+    border: 0;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.btn2{
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    background-color: #42b72a;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #1877F2;
+}
